@@ -18,7 +18,7 @@ class Hello
          
      }
      else
-     cout<<"its zero or negative";
+     cout<<"even";
      return 0;
  }
 };
